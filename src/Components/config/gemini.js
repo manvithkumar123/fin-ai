@@ -1,4 +1,4 @@
-const apiKey = 'AIzaSyA8iZ54Tz7RcVfR0w3qmr7RD5P4Hl9g5Z8';
+const apiKey = 'AIzaSyD3SC85wOCXRAwl7gBFzW7AXSGrqe-FZzQ';
 
 function runChat(prompt) {
   const data = {
