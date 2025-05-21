@@ -5,7 +5,7 @@ import Contextprovider from './Components/Context/Content.jsx'
 import { BrowserRouter } from 'react-router-dom';
 
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter>
+  <BrowserRouter basename="/fin-ai">
     <Contextprovider>
       <App />
     </Contextprovider>
